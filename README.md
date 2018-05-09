@@ -1,0 +1,2 @@
+# Spring Boot OAuth 2
+This app follows the tutorial for integrating the Spring Security OAuth 2 implemention on a Spring Boot server. Tutorial located at https://spring.io/guides/tutorials/spring-boot-oauth2/
