@@ -1,0 +1,43 @@
+# CMake
+cmake-build-debug/**
+
+## File-based project format:
+*.iws
+
+# IntelliJ
+*.iml
+target/
+.idea/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/**
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+temp/
+
+# BlueJ files
+*.ctxt
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# BUILD PROPERTIES #
+build.properties
